@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PayDay
+comment0.text=\n\ Write\ a\ description\ of\ class\ PayDay\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ hourlyPayRate\ hoursWorked\ deduction
+comment1.target=PayDay(java.lang.String,\ double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PayDay\n
+comment2.params=
+comment2.target=java.lang.String\ subStr()
+comment2.text=\n\ Class\ Methods\n
+comment3.params=
+comment3.target=double\ getGrossPay()
+comment4.params=gross
+comment4.target=double\ getAmountDeducted(double)
+comment5.params=gross\ amountDeducted
+comment5.target=double\ getNetPay(double,\ double)
+comment6.params=
+comment6.target=java.lang.String\ getPayStub()
+numComments=7
